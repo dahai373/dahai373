@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dahai373
+- 👀 I’m interested in C++ 
+- 🌱 I’m currently learning  SQL with Oracle PL-SQL
